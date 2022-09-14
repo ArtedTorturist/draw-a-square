@@ -10,4 +10,7 @@ int main(){
 }
 
 int* vchk(int nargs, string dem){
+  int* sai;
+  int a[2];
+  return sai;
 }
